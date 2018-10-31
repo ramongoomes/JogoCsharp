@@ -1,0 +1,28 @@
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\game.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\game.frmMenu.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\jogo.csproj.GenerateResource.Cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\bin\Debug\Jogo.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\bin\Debug\Jogo.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\Jogo.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\Jogo.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\game\game\game\obj\Debug\Jogo.pdb
+C:\_cshp_nov2017\JogoPingPong\pingpong\bin\Debug\Jogo.exe
+C:\_cshp_nov2017\JogoPingPong\pingpong\bin\Debug\Jogo.pdb
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\jogo.csprojResolveAssemblyReference.cache
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\game.Form1.resources
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\game.frmMenu.resources
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\Jogo.Properties.Resources.resources
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\jogo.csproj.GenerateResource.Cache
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\Jogo.exe
+C:\_cshp_nov2017\JogoPingPong\pingpong\obj\Debug\Jogo.pdb
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\bin\Debug\Jogo.exe
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\bin\Debug\Jogo.pdb
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\jogo.csprojAssemblyReference.cache
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\game.Form1.resources
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\game.frmMenu.resources
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\jogo.csproj.GenerateResource.cache
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\Jogo.exe
+C:\Users\fernando.t.molina\Downloads\JogoPingPong\pingpong\obj\Debug\Jogo.pdb
